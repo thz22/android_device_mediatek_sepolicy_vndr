@@ -1,2 +1,2 @@
 BOARD_VENDOR_SEPOLICY_DIRS += \
-    device/lineage/sepolicy/libperfmgr/vendor
+    $(MTK_SEPOLICY_PATH)/libperfmgr/vendor
